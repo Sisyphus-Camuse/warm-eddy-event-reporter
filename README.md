@@ -1,5 +1,7 @@
 # Warm Eddy Event Reporter
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A tiny, clean, open-source demo for AI-assisted physical oceanography.
 
 This project generates a fully synthetic sea-surface temperature anomaly field,
